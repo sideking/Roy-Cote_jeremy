@@ -31,3 +31,6 @@ Fromsoftware est une companie de jeu video qui est réputé pour ces jeu video e
 la série Dragon Age de bioware m'a toujours fasciné pour ses univers merveilleux mais apocalyptique
 
 ### [Capcom's creativity](https://www.capcomusa.com/)
+les mondes créer dans les jeu de Capcom sont souvent très inspirant grâce a leur imagination débordante
+
+### [Ubisoft's games](https://www.ubisoft.com/fr-ca/)
