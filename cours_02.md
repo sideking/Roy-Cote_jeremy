@@ -21,3 +21,11 @@ Expliquer pourquoi vous avez choisi ce lien.
 ### Lien 5 
 Expliquer pourquoi vous avez choisi ce lien. 
 
+### [momentfactory's earth day](https://momentfactory.com/work/all/all/phish-earth-day-concert)
+J'ai choisis ce lien car je pense qu'il est très important de fêter la planete sur laquelle on vit
+
+### [Fromsoftware's genius](https://www.fromsoftware.jp/ww/)
+Fromsoftware est une companie de jeu video qui est réputé pour ces jeu video extraordinaire 
+
+### [Bioware's Dragon Age series](https://www.bioware.com/games/#dragon-age-inquisition)
+la série Dragon Age de bioware m'a toujours fasciné pour ses univers merveilleux mais apocalyptique
