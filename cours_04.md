@@ -20,15 +20,25 @@ mais le stress que ce travail m'aporterais serait trop grand pour moi.
 
 ### Emploi 3 - producteur de jeux vidéo
 
-Le producteur de jeux vidéo doit: Réaliser un plan de production pour chaque équipe qui travaille sur le projet; définir les échésncier, le budget et les ressources humaine; superviser les étape de production du jeu; assurer la motivation des équipes et de la communication entre-elles.ce poste nécéssite d'etre au batiment de conception du jeu pour assurer que les équipes fasse bien leur travaille. Les qualités que tu devrait avoir pour ce métier sont: l'autonomie, l'écoute, la créativité, le leadership et bien d'autre. J'aime le fait que je pourrais m'assurer de la communication entre les équipes mais en meme temps pas vraiment. 
+Le producteur de jeux vidéo doit: Réaliser un plan de production pour chaque équipe qui travaille sur le projet; définir les échésncier, le budget et les ressources
+humaine; superviser les étape de production du jeu; assurer la motivation des équipes et de la communication entre-elles.ce poste nécéssite d'etre au batiment de 
+conception du jeu pour assurer que les équipes fasse bien leur travaille. Les qualités que tu devrait avoir pour ce métier sont: l'autonomie, l'écoute, la créativité,
+le leadership et bien d'autre. J'aime le fait que je pourrais m'assurer de la communication entre les équipes mais en meme temps pas vraiment. 
 
 ### Emploi 4 - Programmeur
 
-Le programmeur doit: écrire des ligne de code pour configurer un programme; effectuer des mise en essai pour vérifier le bon fonctionnement; analyser les ereur et les règles; met a jour les programme et assure leur maintenance
+Le programmeur doit: écrire des ligne de code pour configurer un programme; effectuer des mise en essai pour vérifier le bon fonctionnement; analyser les ereur et les
+règles; met a jour les programme et assure leur maintenance. ces personne travaille a chez eux ou dans un bureau a leur compagnie, lesv qualité que tu devrais avoir 
+pour ce travail sont: créativité, esprit d'analyse, minutie, persevérance et polyvalence.créer des programme m'intéresse un peu mais le fait de devoir écrire des ligne
+de code m'intéresse moin.
 
 ### Emploi 5 - testeur de jeux vidéo
 
-4 à 5 lignes
+un testeur de jeux vidéo doit: parcourir le jeu de facon libre ou en suivant une liste; effectuer a nombreuse reprise une meme action dans le jeu; identifier les 
+anomalies trouver; reproduire les anomalie pour découvrir leurs cause; rédiger un rapport sur les anomalie trouvé. ces personne travaillent dans le batiment de la 
+compagnie pour s'assurer de ne pas laisser d'autre personne voir un jeu pas encore sorti. les qualité a développer pour ce travail sont: l'esprit critique, l'esprit
+d'analyse, la minutie et la patience. ce qui m'intéresse dans cet emplois est de pouvoir jouer a un jeu avant quil ne soit sorti ,mais l'action de répéter une meme 
+action pendant peut-etre des heure est pas tres attrayant.
 
-
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous. 
+(Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point
+qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.)
