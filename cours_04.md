@@ -28,7 +28,7 @@ le leadership et bien d'autre. J'aime le fait que je pourrais m'assurer de la co
 ### Emploi 4 - Programmeur
 
 Le programmeur doit: écrire des ligne de code pour configurer un programme; effectuer des mise en essai pour vérifier le bon fonctionnement; analyser les ereur et les
-règles; met a jour les programme et assure leur maintenance. ces personne travaille a chez eux ou dans un bureau a leur compagnie, lesv qualité que tu devrais avoir 
+règles; met a jour les programme et assure leur maintenance. ces personne travaille a chez eux ou dans un bureau a leur compagnie, les qualité que tu devrais avoir 
 pour ce travail sont: créativité, esprit d'analyse, minutie, persevérance et polyvalence.créer des programme m'intéresse un peu mais le fait de devoir écrire des ligne
 de code m'intéresse moin.
 
