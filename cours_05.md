@@ -11,7 +11,7 @@ EUH :
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
 
-Tout mais plus precisement:
+Tout, mais plus precisement:
 * ma préparation (faire des feuille sur ce que je doit dire)
 * passer plus de temps sur le powerpoint (demander de l'aide aussi)
 
