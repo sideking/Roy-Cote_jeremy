@@ -2,6 +2,7 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
+Nommer deux points forts de votre présentation.
 EUH :
 * sa simplicité?
 * son honnêteté?
