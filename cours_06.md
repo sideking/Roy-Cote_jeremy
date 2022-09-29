@@ -12,4 +12,4 @@ Préparer 5 questions en lien avec la visite que nous irons faire la semaine pro
 
 ## Vous avez combien d'employé?
 
-## travaillez-vous sur un projet en ce moment?
+## Travaillez-vous sur un projet en ce moment?
