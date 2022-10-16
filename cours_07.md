@@ -32,4 +32,5 @@ sincerement que c'est le meilleur jeu sorti cette année. Ce qui ma le plus touc
 événements passer qui donne une impression de vie au monde et a ses habitants.
 
 ### Analyse critique
-ce qui pourrait ^tre améliorer ou même modifier dans ce jeu serait le mode multijoueurs. Bien qu'il est amusant, il y a trop de restriction (lieu ou on peut, invasion par d'autre joueur pour vous tuer, etc...) pour que ça en v
+ce qui pourrait ^tre améliorer ou même modifier dans ce jeu serait le mode multijoueurs. Bien qu'il est amusant, il y a trop de restriction (lieu ou on peut, invasion
+par d'autre joueur pour vous tuer, etc...) pour que ça en vaille le coups.
